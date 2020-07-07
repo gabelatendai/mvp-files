@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "900065700199",
+    "firebase_url": "https://uploadimage-43dfc.firebaseio.com",
+    "project_id": "uploadimage-43dfc",
+    "storage_bucket": "uploadimage-43dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900065700199:android:0729f6a5fc8745a3c367c2",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900065700199-p6q5nloqp2uma0fdcabc2jol380300r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQuWgIBsVR9z3zCy1xvFNgp3fWo_TX8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900065700199-p6q5nloqp2uma0fdcabc2jol380300r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900065700199:android:8b831d5f901aec92c367c2",
+        "android_client_info": {
+          "package_name": "com.example.foodspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900065700199-p6q5nloqp2uma0fdcabc2jol380300r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQuWgIBsVR9z3zCy1xvFNgp3fWo_TX8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900065700199-p6q5nloqp2uma0fdcabc2jol380300r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900065700199:android:5819ef5322093259c367c2",
+        "android_client_info": {
+          "package_name": "com.example.mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900065700199-p6q5nloqp2uma0fdcabc2jol380300r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQuWgIBsVR9z3zCy1xvFNgp3fWo_TX8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900065700199-p6q5nloqp2uma0fdcabc2jol380300r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
